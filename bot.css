@@ -1,0 +1,10 @@
+input {
+background-color: aqua;
+height: 100px;
+text-align: justify;
+content: counter(name);
+}
+
+h1 {
+    font-style: oblique;
+}
