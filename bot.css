@@ -1,5 +1,5 @@
 input {
-background-color: aqua;
+background-color: rgb(168, 253, 9);
 height: 100px;
 text-align: justify;
 content: counter(name);
@@ -7,6 +7,9 @@ content: counter(name);
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-size-adjust: 50   ;
 } 
 body {
     background-image: url(https://i.pinimg.com/736x/38/85/75/388575578ecc57f853bf1e40ce068f97.jpg);
+}
